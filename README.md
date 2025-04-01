@@ -1,3 +1,4 @@
+I am not going to abide by these rules - cbgames.cbx
 # GitWeb-Sites
 This is the repository containing the community of user created sites (referred from here on out as indexes) for the GitWeb client available with MrCrayfish's Device Mod.
 
