@@ -29,3 +29,5 @@ This is the repository containing the community of user created sites (referred 
 - .craft - Standard multiple use case suffix!
 
 - .web - Standard multiple use case suffix!
+
+- .cbx - cbgames personal websites as Device Mod Addon
